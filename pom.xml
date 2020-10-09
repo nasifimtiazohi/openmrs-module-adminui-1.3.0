@@ -41,7 +41,7 @@
 		<uicommonsVersion>2.1</uicommonsVersion>
 		<appuiVersion>1.7</appuiVersion>
 		<uiframeworkVersion>3.9</uiframeworkVersion>
-		<appframeworkVersion>2.9</appframeworkVersion>
+		<appframeworkVersion>2.16.0</appframeworkVersion>
 		<providermanagementVersion>2.5.0</providermanagementVersion>
 		<webservicesRestVersion>2.16</webservicesRestVersion>
 	</properties>
