@@ -42,7 +42,7 @@
 		<appuiVersion>1.7</appuiVersion>
 		<uiframeworkVersion>3.9</uiframeworkVersion>
 		<appframeworkVersion>2.9</appframeworkVersion>
-		<providermanagementVersion>2.5.0</providermanagementVersion>
+		<providermanagementVersion>2.12.0</providermanagementVersion>
 		<webservicesRestVersion>2.16</webservicesRestVersion>
 	</properties>
 
